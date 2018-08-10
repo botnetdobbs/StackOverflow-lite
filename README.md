@@ -4,7 +4,7 @@
 The platform allows registered users to post questions and answer other questions. Anybody can view the list of available questions
 
 # Usage
-Get started [StackOverflow-lite](https://botnetdobbs.github.com/)
+Get started [StackOverflow-lite](https://botnetdobbs.github.io/StackOverflow-lite/index.html)
 
 # Users can:
 - create an account and log in.
