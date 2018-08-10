@@ -1,0 +1,21 @@
+.pull-right {
+    float: right;
+}
+
+.content {
+    background-color: #f6f9fc;
+}
+
+/* Home page styling */
+.questions {
+    padding: 10px 0 15px 10px;
+    border-radius: 10px;
+}
+
+.questions .question {
+    padding-bottom: 15px;
+}
+
+.questions .question h4 {
+    font-weight: normal;
+}
