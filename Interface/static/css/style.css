@@ -53,3 +53,13 @@ Login page styling
     padding: 8px;
     width: 80%;
 }
+
+/* Question page */
+
+.question li {
+    list-style-type: none;
+}
+.question .items {
+    color: #0ea31ad7;
+    padding-right: 30px;
+}
