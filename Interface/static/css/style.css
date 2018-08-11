@@ -19,3 +19,37 @@
 .questions .question h4 {
     font-weight: normal;
 }
+
+/* 
+Login page styling
+ */
+
+ /*Login/regiater wrapper*/
+ .login-reg {
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.my-form {
+    padding: 20px;
+}
+
+.my-form .form-group {
+    padding-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+}
+
+.my-form input, .my-form textarea {
+    padding: 8px;
+    width: 80%;
+}
