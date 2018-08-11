@@ -63,3 +63,22 @@ Login page styling
     color: #0ea31ad7;
     padding-right: 30px;
 }
+
+/* Profile page */
+.main-content {
+    width: 60%;
+    margin: auto;
+    float: left;
+    box-sizing: border-box;
+}
+
+.aside {
+    width: 40%;
+    margin: auto;
+    float: right;
+    box-sizing: border-box;
+}
+
+.aside .quest-profile {
+    padding-bottom: 10px;
+}

@@ -30,7 +30,7 @@ body {
     border-radius: 7px;
 }
 
-.button a , .button a:hover, .button a:visited {
+button a , button a:hover, button a:visited {
     color: #ffffff;
 }
 
@@ -45,6 +45,24 @@ body {
 .button-primary:hover {
     background-color: rgb(33, 90, 150);
 }
+
+.button-info {
+    background-color: #0bc00bfa;
+}
+
+.button-info:hover {
+    background-color: #0d920dfa;
+}
+
+/* .button-danger {
+    background-color: #e41616fa;
+}
+
+
+.button-danger:hover {
+    background-color: #b60b0bfa;
+} */
+
 
 /* header */
 header {
@@ -104,6 +122,12 @@ a:hover, a:active {
     /*background-color: #0600ff;*/
     color: #404613;
 }
+
+/* Tables */
+.my-table {
+    padding-bottom: 20px;
+}
+
 
 /* Main footer */
 #footer {
